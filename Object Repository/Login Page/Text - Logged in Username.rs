@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text - Logged in Username</name>
+   <tag></tag>
+   <elementGuidId>abdfab66-4a70-47c5-ba17-7fae20fbe57f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-313']/div/div/div/div/div[2]/strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>692a593c-f83d-4fc4-b4a6-bdad0d53273f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>katalontest</value>
+      <webElementGuid>38d10d50-a3c4-4ec8-85b0-cf29b9b4a468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-313&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;um um-login um-logout um-298 uimob340&quot;]/div[@class=&quot;um-form&quot;]/div[@class=&quot;um-misc-with-img&quot;]/div[2]/strong[1]</value>
+      <webElementGuid>844a2155-d539-4f7a-bd51-350d90b627db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-313']/div/div/div/div/div[2]/strong</value>
+      <webElementGuid>8baef83b-a17c-403a-8e1d-2d5e1d7976ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::strong[1]</value>
+      <webElementGuid>cdc23289-c268-441c-9c5b-2fae191f7d58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::strong[1]</value>
+      <webElementGuid>3b697f07-ea10-4f4f-baf0-21c13a19f0e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your account'])[1]/preceding::strong[1]</value>
+      <webElementGuid>eec1b6b9-1d35-4456-abb0-75792efa1ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::strong[1]</value>
+      <webElementGuid>70057e25-69d3-44a6-b609-a8ddfb037b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='katalontest']/parent::*</value>
+      <webElementGuid>298f17de-9a2b-44d6-8f44-7c81120c002d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>6b5fd4e9-e858-4004-a0d6-43ffa344b402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'katalontest' or . = 'katalontest')]</value>
+      <webElementGuid>0ec22e58-7d03-4d4d-a33c-5272fcaf0d04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
