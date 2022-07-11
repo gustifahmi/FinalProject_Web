@@ -6,15 +6,19 @@
    <elementGuidId>b67a857e-1b2c-4220-a15e-4db12c59703c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='sticky_bottom_anchor']/ul/li[2]/div/div[2]/div[2]/a[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sticky_bottom_anchor']/ul/li[2]/div/div[2]/div[2]/a[2]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>cfcc1d8c-51cd-4a42-a36a-3eec93b9fd32</webElementGuid>
+      <webElementGuid>5efb0260-cbad-448d-8ae3-4c63c4542fbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>href</name>
       <type>Main</type>
       <value>?add-to-cart=17</value>
-      <webElementGuid>4fa0f1ed-37a8-4822-ad91-bcb4b0250e21</webElementGuid>
+      <webElementGuid>64e51464-492f-40bb-a113-f297562e1288</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>data-quantity</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>a590cbd5-068c-4227-913d-ddcc1d2eb4ba</webElementGuid>
+      <webElementGuid>25a464e9-a137-4a64-9725-9a7ecc96a70f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button product_type_simple add_to_cart_button ajax_add_to_cart</value>
-      <webElementGuid>74306004-3423-45ca-88f1-df56498306d1</webElementGuid>
+      <webElementGuid>95c15ab3-49a9-4b90-944f-f0cf87fe7280</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +58,7 @@
       <name>data-product_id</name>
       <type>Main</type>
       <value>17</value>
-      <webElementGuid>bb696987-9c61-44f3-8dfb-c67b26ede168</webElementGuid>
+      <webElementGuid>15cc18dc-2be5-4952-98e9-7f3d0e9a364f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>data-product_sku</name>
       <type>Main</type>
       <value>woo-album</value>
-      <webElementGuid>092ec13b-c872-40e6-b973-08db9353d5b8</webElementGuid>
+      <webElementGuid>7ce64a11-b499-4ce8-972a-b5bd85711830</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Add “Album” to your cart</value>
-      <webElementGuid>71374910-868c-4e0c-a50e-a1ff384f03af</webElementGuid>
+      <webElementGuid>ae72c7eb-0120-4875-bf9d-8bdfc7dd9492</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>nofollow</value>
-      <webElementGuid>66a36670-f0e2-454a-ad30-860724905063</webElementGuid>
+      <webElementGuid>bb183083-dc0d-43bc-9800-ab30800adbac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add to cart</value>
-      <webElementGuid>08f4d97c-9dee-4b67-84e9-06fe20ac8b67</webElementGuid>
+      <webElementGuid>d1c04578-cd41-4ca6-9b5f-c142c835fdaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,647 +98,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-17 status-publish first instock product_cat-uncategorized has-post-thumbnail downloadable virtual purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]</value>
-      <webElementGuid>cb3ca8d9-c6a5-4954-a36f-2b27190cfc8a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>f849f571-fae7-4839-bbfa-1e0a5226f4a2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>?add-to-cart=17</value>
-      <webElementGuid>875944c0-d35c-41ad-b2c1-58394ceb04f0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-quantity</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>a0b1126c-fd3f-4592-b53a-3daa545e3a68</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>button product_type_simple add_to_cart_button ajax_add_to_cart</value>
-      <webElementGuid>b26417b1-9843-483c-ae4e-955d8b7e08d4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_id</name>
-      <type>Main</type>
-      <value>17</value>
-      <webElementGuid>b110b0e3-d62d-42bd-b21e-7f2b7a82c821</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_sku</name>
-      <type>Main</type>
-      <value>woo-album</value>
-      <webElementGuid>cdd8effd-2477-450c-8892-d1dd3c87b832</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Add “Album” to your cart</value>
-      <webElementGuid>d4ab229f-5205-4cda-bb8b-3ff7139f28fb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rel</name>
-      <type>Main</type>
-      <value>nofollow</value>
-      <webElementGuid>1e3c47d8-292b-4685-8684-29a4ae0b625d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Add to cart</value>
-      <webElementGuid>148b1721-bd42-403d-951a-df47b0f27500</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-17 status-publish first instock product_cat-uncategorized has-post-thumbnail downloadable virtual purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]</value>
-      <webElementGuid>c9c1ce3d-a48e-4420-a0c1-e5def2bda38b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>c98478be-7e4c-4e24-9d73-ca28e11ba89e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>?add-to-cart=17</value>
-      <webElementGuid>70bbf1d1-c326-4452-b797-85f0ef0fe834</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-quantity</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>be5e6304-e93d-45ca-96b6-934606794878</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>button product_type_simple add_to_cart_button ajax_add_to_cart</value>
-      <webElementGuid>574318d3-89ed-42d2-9519-8a5d46221f72</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_id</name>
-      <type>Main</type>
-      <value>17</value>
-      <webElementGuid>22823e99-3868-4bba-8335-d330a49c0eec</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_sku</name>
-      <type>Main</type>
-      <value>woo-album</value>
-      <webElementGuid>6310c3d4-8d04-447c-acc3-6423593592c5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Add “Album” to your cart</value>
-      <webElementGuid>a18868fd-16bc-41e1-9705-12e918ee580a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rel</name>
-      <type>Main</type>
-      <value>nofollow</value>
-      <webElementGuid>13fff1b9-d0b4-44c2-bcc6-861511bb3316</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Add to cart</value>
-      <webElementGuid>b68e6530-423b-4223-805c-d265f4eb4b5b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-17 status-publish first instock product_cat-uncategorized has-post-thumbnail downloadable virtual purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]</value>
-      <webElementGuid>01ccb98c-15cb-4b36-8847-c9e02c4f0ac0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>9c58690b-59f2-4046-a934-e05c727858bf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>?add-to-cart=17</value>
-      <webElementGuid>18ad82e8-c291-46a7-adf1-22af46783e37</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-quantity</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>07707da8-215b-4509-bb73-f7716bdcb171</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>button product_type_simple add_to_cart_button ajax_add_to_cart</value>
-      <webElementGuid>f47d6c2e-b167-4b70-96e7-c892cd7761fe</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_id</name>
-      <type>Main</type>
-      <value>17</value>
-      <webElementGuid>79ede3c3-5cb8-4da2-bab1-53deef385686</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_sku</name>
-      <type>Main</type>
-      <value>woo-album</value>
-      <webElementGuid>5db71df3-f372-43a9-9dae-91594bc2aafc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Add “Album” to your cart</value>
-      <webElementGuid>ad6c848f-e5e8-4a81-9657-eb1fda2645a2</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rel</name>
-      <type>Main</type>
-      <value>nofollow</value>
-      <webElementGuid>35b4652c-721c-46e4-9c6b-97fe18d7bf70</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Add to cart</value>
-      <webElementGuid>399b0162-914a-4ecc-9ef8-9caaf3b18c7c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-17 status-publish first instock product_cat-uncategorized has-post-thumbnail downloadable virtual purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]</value>
-      <webElementGuid>1f6c1dff-4e06-48e3-87b6-f2c712101c1e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>5fabee12-174e-4fa6-8875-4b023206efd8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>?add-to-cart=17</value>
-      <webElementGuid>db6f2377-f6f3-485a-9ad1-08588148ef4c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-quantity</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>9c485aef-2401-4c32-8853-fbfc88895125</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>button product_type_simple add_to_cart_button ajax_add_to_cart</value>
-      <webElementGuid>c40335d2-9855-477a-acbb-f8c87c707785</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_id</name>
-      <type>Main</type>
-      <value>17</value>
-      <webElementGuid>51fa3cf8-212a-4baf-9f8b-aafc896a5e98</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_sku</name>
-      <type>Main</type>
-      <value>woo-album</value>
-      <webElementGuid>08b9ad41-71d8-4fae-9746-16c8fd496525</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Add “Album” to your cart</value>
-      <webElementGuid>8c88acf1-d87e-4bd9-ada2-fb7802080bad</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rel</name>
-      <type>Main</type>
-      <value>nofollow</value>
-      <webElementGuid>cedca8c0-c8fe-4e55-84c3-4b62d160f582</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Add to cart</value>
-      <webElementGuid>2004cb31-9a29-404f-bd3e-6d51f1c9c4b6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-17 status-publish first instock product_cat-uncategorized has-post-thumbnail downloadable virtual purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]</value>
-      <webElementGuid>72a77d01-ec6b-4a09-af5a-e630eeb36297</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>75f13ab1-df86-4cc3-bb38-f3aaf41af114</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>?add-to-cart=17</value>
-      <webElementGuid>8db8169d-68bd-4cbe-a9b4-cd964d65e71a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-quantity</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>5186bd72-cfc5-49a3-b032-c0ff6d85e1f8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>button product_type_simple add_to_cart_button ajax_add_to_cart</value>
-      <webElementGuid>99d32a5c-88cf-48a7-b9aa-ce3b700f440f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_id</name>
-      <type>Main</type>
-      <value>17</value>
-      <webElementGuid>144a99f4-f223-46fb-8a7b-313c9ef858ae</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_sku</name>
-      <type>Main</type>
-      <value>woo-album</value>
-      <webElementGuid>1230f746-dd25-40e8-9254-bab94c099d5c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Add “Album” to your cart</value>
-      <webElementGuid>e131cc11-8c0f-43cd-b1e2-7eb12808c311</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rel</name>
-      <type>Main</type>
-      <value>nofollow</value>
-      <webElementGuid>5317bace-60db-49ce-8a42-0362f593df73</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Add to cart</value>
-      <webElementGuid>82925f29-62d3-4443-bc9f-34b6ce8d2275</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-17 status-publish first instock product_cat-uncategorized has-post-thumbnail downloadable virtual purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]</value>
-      <webElementGuid>27e8a04d-60c2-41ff-ac0c-b72410c4b1c8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>1396e8a4-94fb-4c99-a2b3-8ee76f0543d8</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>?add-to-cart=17</value>
-      <webElementGuid>cd5bd1fb-d5e0-4050-927b-b19c8aeead7f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-quantity</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>f6baa5dd-99c2-43ef-a2c4-670cbdc93e7a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>button product_type_simple add_to_cart_button ajax_add_to_cart</value>
-      <webElementGuid>df439d48-c95f-4dd3-9427-1823ad222abd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_id</name>
-      <type>Main</type>
-      <value>17</value>
-      <webElementGuid>98a914ba-ad66-4053-99c5-819ef02657c9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_sku</name>
-      <type>Main</type>
-      <value>woo-album</value>
-      <webElementGuid>ced17814-fd9d-41ac-96a4-eb1fdc843f91</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Add “Album” to your cart</value>
-      <webElementGuid>165c22a3-9d0b-482a-85df-72a3f157098c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rel</name>
-      <type>Main</type>
-      <value>nofollow</value>
-      <webElementGuid>7d3682e2-0c5b-49f0-b736-e07493cc4802</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Add to cart</value>
-      <webElementGuid>fe3babe5-1952-49e7-95e5-26bac25684f3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-17 status-publish first instock product_cat-uncategorized has-post-thumbnail downloadable virtual purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]</value>
-      <webElementGuid>287debc2-c990-47be-8d6c-70b1b2854037</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>89b2e19b-33ac-4dc0-83f2-8d2b8a90cc21</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>?add-to-cart=17</value>
-      <webElementGuid>8cf4c2dc-12c4-42d9-9b96-53156eed18f5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-quantity</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>3bad0c86-83d0-4589-9175-ed85cc625999</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>button product_type_simple add_to_cart_button ajax_add_to_cart</value>
-      <webElementGuid>8499c77d-df41-414a-8ee9-6612c3279b5d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_id</name>
-      <type>Main</type>
-      <value>17</value>
-      <webElementGuid>07a27be7-5f76-4a8b-8697-391e2e8f31a3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_sku</name>
-      <type>Main</type>
-      <value>woo-album</value>
-      <webElementGuid>69046a09-9ba6-4635-a63a-4d4b8d36668d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Add “Album” to your cart</value>
-      <webElementGuid>5e26aafc-9fbd-4bef-b98d-fce8401a37f7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rel</name>
-      <type>Main</type>
-      <value>nofollow</value>
-      <webElementGuid>9c9820a0-ca3c-479e-b42e-46d18e3126ed</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Add to cart</value>
-      <webElementGuid>c8998e45-2129-45f0-bf30-dbe149e93c63</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-17 status-publish first instock product_cat-uncategorized has-post-thumbnail downloadable virtual purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]</value>
-      <webElementGuid>0f42572b-b0ba-40e9-8290-c7a29fbdb8cd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>a</value>
-      <webElementGuid>46a3d4fd-6e79-44e3-a189-1ab3b149ca77</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>?add-to-cart=17</value>
-      <webElementGuid>0d4ec2fd-1de4-49b4-a87c-35f9d66dc58f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-quantity</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>0118657c-e55c-4c3d-92be-24cf3b9114f6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>button product_type_simple add_to_cart_button ajax_add_to_cart</value>
-      <webElementGuid>3351d478-f167-440f-8056-f51b6d3ece38</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_id</name>
-      <type>Main</type>
-      <value>17</value>
-      <webElementGuid>868e9b34-0046-4d10-a163-d15aa5410dcc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-product_sku</name>
-      <type>Main</type>
-      <value>woo-album</value>
-      <webElementGuid>ff44c632-3128-47b4-a33b-fc213a1e9c65</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Add “Album” to your cart</value>
-      <webElementGuid>1d57e156-6b2b-40ae-a1de-51ce0dcd45eb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>rel</name>
-      <type>Main</type>
-      <value>nofollow</value>
-      <webElementGuid>7ca6be60-a950-4d7b-a0e4-96f302321d0f</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Add to cart</value>
-      <webElementGuid>a66c296b-5923-4d66-8a3e-5be32ce06ade</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;sticky_bottom_anchor&quot;)/ul[@class=&quot;products columns-3 js_animated&quot;]/li[@class=&quot;product type-product post-17 status-publish first instock product_cat-uncategorized has-post-thumbnail downloadable virtual purchasable product-type-simple visible animation_ready animated&quot;]/div[@class=&quot;main-container&quot;]/div[@class=&quot;second-container&quot;]/div[@class=&quot;buttons&quot;]/a[@class=&quot;button product_type_simple add_to_cart_button ajax_add_to_cart&quot;]</value>
-      <webElementGuid>892f60ef-c252-4043-a427-4aed14cc083a</webElementGuid>
+      <webElementGuid>80459f72-32ff-441f-8b53-29327d67d792</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -742,7 +106,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sticky_bottom_anchor']/ul/li[2]/div/div[2]/div[2]/a[2]</value>
-      <webElementGuid>09536c31-7c48-46ad-9f28-0cb4c8563d12</webElementGuid>
+      <webElementGuid>ef20002f-6fef-42fd-a531-09f75fcbff0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -750,7 +114,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick View'])[1]/following::a[1]</value>
-      <webElementGuid>cbcf0a18-4418-44f6-844e-58baf682c627</webElementGuid>
+      <webElementGuid>475f5d6a-0df8-4e5c-a4fd-db8ce4a7ba5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -758,7 +122,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[4]/following::a[2]</value>
-      <webElementGuid>502ab80d-de82-401f-82f1-8ee8a555c0a7</webElementGuid>
+      <webElementGuid>fa532e7e-9030-497f-a404-78f8826fc751</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -766,7 +130,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale!'])[1]/preceding::a[1]</value>
-      <webElementGuid>212d028a-00fb-4334-a70a-ca27cc67665f</webElementGuid>
+      <webElementGuid>3e565ad9-b6ac-4594-adf9-b2c67ef173f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -774,7 +138,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '?add-to-cart=17')]</value>
-      <webElementGuid>6992ee06-c0dd-470a-8771-310ba10778be</webElementGuid>
+      <webElementGuid>1edea26f-5dc4-434b-b10e-f45588011492</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -782,7 +146,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>d3e2a098-6773-456b-b822-1ce5cbaad4d3</webElementGuid>
+      <webElementGuid>6f28af5d-66d9-4cfc-8613-fb54c2b99368</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -790,6 +154,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '?add-to-cart=17' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
-      <webElementGuid>eb8660e8-eb80-4233-b54d-f294281e086e</webElementGuid>
+      <webElementGuid>86915e94-604b-412f-b4b9-24f753f8d029</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

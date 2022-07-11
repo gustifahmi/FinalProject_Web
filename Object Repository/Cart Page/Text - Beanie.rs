@@ -7,14 +7,17 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://kotakoki.wijaysali.my.id/product/beanie/' and (text() = 'Beanie' or . = 'Beanie')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//article[@id='post-53']/div/div/form/table/tbody/tr[2]/td[3]/a</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1f34cd18-290f-4c05-baef-9d11a46c95d0</webElementGuid>
+      <webElementGuid>69c1ac03-88e0-4ae8-8fd4-81b79be18073</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +33,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://kotakoki.wijaysali.my.id/product/beanie/</value>
-      <webElementGuid>b82e7cf6-e727-4c35-86bb-7cd069a95731</webElementGuid>
+      <webElementGuid>d570d9a7-484f-4d53-a1bf-d5d4130733a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +41,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Beanie</value>
-      <webElementGuid>bb7bb9cb-f992-4d7b-9e6c-ac2f5bdc3655</webElementGuid>
+      <webElementGuid>8d26f459-e4d9-4499-ac79-81e723cb1c8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +49,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;post-53&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/form[@class=&quot;woocommerce-cart-form&quot;]/table[@class=&quot;shop_table shop_table_responsive cart woocommerce-cart-form__contents&quot;]/tbody[1]/tr[@class=&quot;woocommerce-cart-form__cart-item cart_item&quot;]/td[@class=&quot;product-name&quot;]/a[1]</value>
-      <webElementGuid>45a2c82d-cf5b-494c-a3ee-e7759c2d35f7</webElementGuid>
+      <webElementGuid>a9a03a11-88b9-4143-87a7-d9bf72b02d1b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//article[@id='post-53']/div/div/form/table/tbody/tr[2]/td[3]/a</value>
-      <webElementGuid>7ecbbcb8-7981-4979-ba7d-26e7f8d9a0d7</webElementGuid>
+      <webElementGuid>c18039a8-5edd-41ba-b754-b0cc92a29ac2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +65,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Beanie')]</value>
-      <webElementGuid>146dfda4-307e-4bb3-ace5-5d325ae7b3cd</webElementGuid>
+      <webElementGuid>b4829f06-bbfd-4f78-9221-e7b4b633e5d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::a[2]</value>
-      <webElementGuid>6eac694e-25ba-49b2-82c4-784845848a5d</webElementGuid>
+      <webElementGuid>4010fc92-13fb-45f3-9649-3831b291a39b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[5]/following::a[3]</value>
-      <webElementGuid>34054966-fe45-409c-9cf4-a07c0371e5c2</webElementGuid>
+      <webElementGuid>73a27f64-9823-4765-bc18-d4f99a6f18e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[6]/preceding::a[1]</value>
-      <webElementGuid>bae0a8c5-c8f6-48d9-b797-d4adad6955c6</webElementGuid>
+      <webElementGuid>20647f83-0f8a-46ab-afdb-9a3156f3ac29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Beanie quantity'])[1]/preceding::a[1]</value>
-      <webElementGuid>df4f5a0d-7b5c-46e6-8d62-60a1e3eca65b</webElementGuid>
+      <webElementGuid>9aa71080-d922-45fb-8cf1-dc44d072b870</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Beanie']/parent::*</value>
-      <webElementGuid>9d663896-56f4-4d54-b76b-9c2893732bf0</webElementGuid>
+      <webElementGuid>3851ebe6-d4d8-41ad-99c2-5c8524aab534</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +113,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://kotakoki.wijaysali.my.id/product/beanie/')])[2]</value>
-      <webElementGuid>6cc7b536-aeac-49c9-8c23-eba9960773cf</webElementGuid>
+      <webElementGuid>d2ed9395-75b4-4dfb-a120-d939185f7fcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +121,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//tr[2]/td[3]/a</value>
-      <webElementGuid>de25695c-914b-4d7e-a71a-a443a0c65779</webElementGuid>
+      <webElementGuid>b2735f9c-b992-4bd0-a84d-d77b1e05a0e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +129,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://kotakoki.wijaysali.my.id/product/beanie/' and (text() = 'Beanie' or . = 'Beanie')]</value>
-      <webElementGuid>e7432168-9c6d-4dca-8360-798cd571a990</webElementGuid>
+      <webElementGuid>21f30de4-0c83-4a08-9bdb-30e91da0ac23</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
