@@ -52,7 +52,9 @@ if (WebUI.verifyElementPresent(findTestObject('Cart Page/Text - Belt'), 1, Failu
 //If all items already exist in cart, close browser
 if (isAlbumExist && isBeanieExist && isBeltExist) {
     WebUI.closeBrowser()
-} else {
+}
+
+else {
     WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/shop-2/')
 
     if (!(isAlbumExist)) {
