@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add to Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6060a258-2ed9-49b1-833a-85b17b8b9f4c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c5dc7ed8-be2d-4f6b-8148-e85009351f1e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a36c06f8-b077-473e-b0ba-0f8ea53a2dfd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'katalontest'</defaultValue>
+      <description></description>
+      <id>c5dc7ed8-be2d-4f6b-8148-e85009351f1e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Palumix123'</defaultValue>
+      <description></description>
+      <id>a36c06f8-b077-473e-b0ba-0f8ea53a2dfd</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
