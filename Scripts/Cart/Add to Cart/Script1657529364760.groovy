@@ -18,20 +18,26 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
+
 WebUI.maximizeWindow()
 
 WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/login/')
+
 WebUI.waitForElementPresent(findTestObject('Login Page/Page Title - Login'), 0)
 
 WebUI.setText(findTestObject('Login Page/Input - Username'), username)
+
 WebUI.setText(findTestObject('Login Page/Input - Password'), password)
+
 WebUI.click(findTestObject('Login Page/Button - Login'))
 
 WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/login/')
 
 //Initialize boolean
 boolean isAlbumExist = false
+
 boolean isBeanieExist = false
+
 boolean isBeltExist = false
 
 //Check Cart
@@ -50,34 +56,39 @@ if (WebUI.verifyElementPresent(findTestObject('Cart Page/Text - Belt'), 1, Failu
 }
 
 //If all items already exist in cart, close browser
-if (isAlbumExist && isBeanieExist && isBeltExist) {
+if ((isAlbumExist && isBeanieExist) && isBeltExist) {
     WebUI.closeBrowser()
-}
-
-else {
+} else {
     WebUI.navigateToUrl('https://kotakoki.wijaysali.my.id/shop-2/')
 
     if (!(isAlbumExist)) {
         WebUI.mouseOver(findTestObject('Shop Page/Image - Album'))
+
         WebUI.click(findTestObject('Shop Page/Button - Add to Cart Album'))
     }
     
     if (!(isBeanieExist)) {
         WebUI.mouseOver(findTestObject('Shop Page/Image - Beanie'))
+
         WebUI.click(findTestObject('Shop Page/Button - Add to Cart Beanie'))
     }
     
     if (!(isBeltExist)) {
         WebUI.scrollToElement(findTestObject('Shop Page/Image - Belt'), 0)
+
         WebUI.mouseOver(findTestObject('Shop Page/Image - Belt'))
+
         WebUI.click(findTestObject('Shop Page/Button - Add to Cart Belt'))
     }
     
     WebUI.click(findTestObject('Navbar/Button - Cart'))
-	
+
     WebUI.verifyElementPresent(findTestObject('Cart Page/Text - Album'), 0)
+
     WebUI.verifyElementPresent(findTestObject('Cart Page/Text - Beanie'), 0)
+
     WebUI.verifyElementPresent(findTestObject('Cart Page/Text - Belt'), 0)
-    
-	WebUI.closeBrowser()
+
+    WebUI.closeBrowser()
 }
+
