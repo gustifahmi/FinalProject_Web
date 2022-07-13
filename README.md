@@ -46,7 +46,7 @@ Tes yang dilakukan pada project ini antara lain:
       - Verify Element Visible, Object: Alert - Incorrect Password  
       Artinya akan muncul alert yang menandakan inputnya salah.  
 
-   5) Login - Success
+   5) Login - Success  
       Memasukkan username dan password yang sesuai dengan data yang ddinput saat membuat akun. Ada sedikit bug di web ini, yaitu ketika kita menekan tombol Login dengan username dan password yang benar, maka akan redirect ke home, tapi masih ada menu Register Now dan Login, sehingga sulit untuk memastikan akun telah berhasil login, selain karena telah redirect ke home. Namun, bisa diakali dengan navigate ke suatu url di web ini maka menu Register Now dan Login akan hilang dan berganti dengan menu My Account. Saya menggunakan https://kotakoki.wijaysali.my.id/login/ untuk navigate dan memastikan username sesuai.  
 
       Verify:
@@ -67,6 +67,7 @@ Tes yang dilakukan pada project ini antara lain:
    2) Remove from Cart
       Sebelum diremove, pastikan dahulu ketiga barang tersebut sudah ada di cart. JIKA ada satu atau lebih barang yang belum ada, maka akan ditambahkan terlebih dahulu ke cart. Setelah itu baru akan di-remove ketiga barang tersebut.  
 
+      Verify:
       - Verify Element Not Present, Object: Text - Album
       - Verify Element Not Present, Object: Text - Beanie
       - Verify Element Not Present, Object: Text - Belt  
